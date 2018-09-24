@@ -14,7 +14,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#272822</string>
+				<string>#1A1B1C</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
@@ -169,6 +169,7 @@
 				<string>#A8DBB2</string>
 			</dict>
 		</dict>
+		<!-- Угловые скобки XML/HTML тегов -->
 		<dict>
 			<key>name</key>
 			<string>Punctuation tag</string>
@@ -177,7 +178,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#613519</string>
+				<string>#FD8008</string>
 			</dict>
 		</dict>
 		<dict>
@@ -222,6 +223,7 @@
 			<dict>
 				<key>foreground</key>
 				<string>#A8DBB2</string>
+
 			</dict>
 		</dict>
 		<dict>
@@ -339,7 +341,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C74C00</string>
+				<string>#FD8008</string>
 			</dict>
 		</dict>
 		<dict>
@@ -875,8 +877,8 @@
 			<string>source comment.block</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#35352D</string>
+				<!-- <key>background</key> -->
+				<!-- <string>#35352D</string> -->
 				<key>foreground</key>
 				<string>#76735F</string>
 			</dict>
