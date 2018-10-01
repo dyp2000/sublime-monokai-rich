@@ -14,7 +14,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#1A1B1C</string>
+				<string>#1e1e1f</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
@@ -33,19 +33,18 @@
 				<string>#222218</string>
 				<key>activeGuide</key>
 				<string>#9D550FB0</string>
-
 				<key>bracketsForeground</key>
 				<string>#F8F8F2A5</string>
 				<key>bracketsOptions</key>
 				<string>underline</string>
-
 				<key>bracketContentsForeground</key>
 				<string>#F8F8F2A5</string>
 				<key>bracketContentsOptions</key>
 				<string>underline</string>
-
 				<key>tagsOptions</key>
 				<string>stippled_underline</string>
+				<key>gutter</key>
+				<string>#1a1a1a</string>
 			</dict>
 		</dict>
 		<dict>
@@ -816,8 +815,8 @@
 			<string>source</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#17171187</string>
+				<!-- <key>background</key> -->
+				<!-- <string>#17171187</string> -->
 			</dict>
 		</dict>
 		<dict>
